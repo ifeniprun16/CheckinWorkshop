@@ -15,9 +15,9 @@
             <div class="fadeIn first">
                 <img src="static/img/logo.png" id="icon" alt="User Icon">
             </div>
-            <div class="fadeIn first">
+            <!-- <div class="fadeIn first">
                 <img src="static/img/logo.png" id="icon" alt="User Icon">
-            </div>
+            </div> -->
             <!-- Login Form -->
             <form action="input-aksi.php" method="post">
                 <input type="number" name="nim" class="fadeIn second" id="nim" placeholder="NIM / NIDN" required="">
